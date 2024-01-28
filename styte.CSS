@@ -1,0 +1,70 @@
+.menue{
+    display: flex;
+    justify-content: space-between;
+}
+.menue ul{
+display: flex;
+}
+.menue ul li{
+padding: 12px;
+list-style: none;
+}
+.dieng{
+  background-color:#ee762C ;   
+height: 12vh;
+color: wheat;
+text-align: center;
+padding: 0.2%;
+}
+.dieng h1{
+    margin-left: 51%;
+}
+.dudu{
+background-color:#034F89 ;
+    height: 85vh;
+}
+.rahma{
+margin-top:12%;
+    margin-left: 56%;
+}
+.formulaire{
+height: 60vh;
+    background-color: white;
+    width: 40%;
+    top: 20%;
+    left: 6%;
+    position: absolute;
+    height: 89%;
+}
+.formulaire h1{
+    color: blue;
+    text-align: center;
+}
+.formulaire h2{
+    text-align: center;
+}
+.bbb{
+  color: blue;  
+  padding-inline-start: 2%;
+}
+.aaa h4 {
+    text-align: center;
+    color:black;
+}
+.aaa h4 input{
+    color: blue;
+    background-color: white;
+    border-color: white;
+}
+.aaa h3{
+    padding-left: 20%;
+}
+.aaa h1 input{
+   color: white;
+   background-color: blue;
+   height: 6vh; 
+}
+
+
+
+
